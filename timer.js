@@ -1,0 +1,1 @@
+console.log("Welcome to Ajax-async,callback and promise.")
